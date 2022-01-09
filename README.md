@@ -3,6 +3,7 @@
 ## Array
 
 - [75. Sort Colors](https://leetcode.com/problems/sort-colors/)
+- [162. Find Peak Element](https://leetcode.com/problems/find-peak-element/)
 - [209. Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)
 - [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/)
 - [704. Binary Search](https://leetcode.com/problems/binary-search/)
