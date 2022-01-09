@@ -10,4 +10,5 @@
 
 ## Dynamic Programming
 
+- [64. Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)
 - [509. Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)
