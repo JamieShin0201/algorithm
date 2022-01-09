@@ -11,4 +11,5 @@
 ## Dynamic Programming
 
 - [64. Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)
+- [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
 - [509. Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)
