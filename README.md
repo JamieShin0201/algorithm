@@ -9,6 +9,10 @@
 - [704. Binary Search](https://leetcode.com/problems/binary-search/)
 - [724. Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)
 
+## Greedy
+
+- [1710. Maximum Units on a Truck](https://leetcode.com/problems/maximum-units-on-a-truck/)
+
 ## Dynamic Programming
 
 - [64. Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)
