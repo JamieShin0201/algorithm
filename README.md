@@ -14,6 +14,7 @@
 
 ## Greedy
 
+- [1578. Minimum Time to Make Rope Colorful](https://leetcode.com/problems/minimum-time-to-make-rope-colorful/)
 - [1710. Maximum Units on a Truck](https://leetcode.com/problems/maximum-units-on-a-truck/)
 
 ## Dynamic Programming
