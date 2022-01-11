@@ -9,6 +9,9 @@
 - [704. Binary Search](https://leetcode.com/problems/binary-search/)
 - [724. Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)
 
+## Stack
+- [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
+
 ## Greedy
 
 - [1710. Maximum Units on a Truck](https://leetcode.com/problems/maximum-units-on-a-truck/)
