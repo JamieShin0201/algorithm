@@ -1,8 +1,6 @@
 package graph;
 
-import java.util.HashSet;
-import java.util.List;
-import java.util.Set;
+import java.util.*;
 
 public class KeysAndRooms {
 
@@ -13,8 +11,25 @@ public class KeysAndRooms {
 
     public static boolean canVisitAllRooms(List<List<Integer>> rooms) {
         Set<Integer> visited = new HashSet<>();
-        dfs(rooms, 0, visited);
+        // dfs(rooms, 0, visited);
+        bfs(rooms, 0, visited);
         return visited.size() == rooms.size();
+    }
+
+    private static void bfs(List<List<Integer>> rooms, int index, Set<Integer> visited) {
+        Queue<Integer> queue = new ArrayDeque<>();
+        queue.offer(index);
+        while (!queue.isEmpty()) {
+            int nowIndex = queue.poll();
+            visited.add(nowIndex);
+            for (int nextIndex : rooms.get(nowIndex)) {
+                if (visited.contains(nextIndex)) {
+                    continue;
+                }
+
+                queue.offer(nextIndex);
+            }
+        }
     }
 
     private static void dfs(List<List<Integer>> rooms, int index, Set<Integer> visited) {
