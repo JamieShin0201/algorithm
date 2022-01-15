@@ -12,8 +12,28 @@ public class KeysAndRooms {
     public static boolean canVisitAllRooms(List<List<Integer>> rooms) {
         Set<Integer> visited = new HashSet<>();
         // dfs(rooms, 0, visited);
-        bfs(rooms, 0, visited);
+        // bfs(rooms, 0, visited);
+        iterateDfs(rooms, 0, visited);
         return visited.size() == rooms.size();
+    }
+
+    private static void iterateDfs(List<List<Integer>> rooms, int index, Set<Integer> visited) {
+        Stack<Integer> stack = new Stack<>();
+        stack.push(index);
+
+        while (!stack.isEmpty()) {
+            int nowIndex = stack.pop();
+            visited.add(index);
+
+            for (int nextIndex : rooms.get(nowIndex)) {
+                if (visited.contains(nextIndex)) {
+                    continue;
+                }
+
+                visited.add(nextIndex);
+                stack.push(nextIndex);
+            }
+        }
     }
 
     private static void bfs(List<List<Integer>> rooms, int index, Set<Integer> visited) {
