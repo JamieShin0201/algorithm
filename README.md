@@ -12,6 +12,7 @@
 ## Stack
 
 - [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
+- [1047. Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/)
 - [1249. Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/)
 
 ## Greedy
