@@ -30,6 +30,7 @@
 
 ## Graph
 
+- [323. Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/)
 - [841. Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/)
 
 ## Math, Bit
