@@ -31,3 +31,7 @@
 ## Graph
 
 - [841. Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/)
+
+## Math, Bit
+
+- [136. Single Number](https://leetcode.com/problems/single-number/)
