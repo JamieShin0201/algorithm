@@ -9,6 +9,10 @@
 - [704. Binary Search](https://leetcode.com/problems/binary-search/)
 - [724. Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)
 
+## HashTable
+
+- [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/)
+
 ## Stack
 
 - [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
