@@ -12,6 +12,7 @@
 ## HashTable
 
 - [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/)
+- [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)
 
 ## Stack
 
