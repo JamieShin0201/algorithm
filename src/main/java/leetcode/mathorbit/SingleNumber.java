@@ -1,4 +1,4 @@
-package mathorbit;
+package leetcode.mathorbit;
 
 import java.util.Arrays;
 import java.util.HashSet;

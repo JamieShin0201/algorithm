@@ -1,4 +1,4 @@
-package graph;
+package leetcode.graph;
 
 public class NumberOfIslands {
 
@@ -15,7 +15,7 @@ public class NumberOfIslands {
         };
         System.out.println(numIslands(grid));
     }
-    
+
     public static int numIslands(char[][] grid) {
         int count = 0;
         int row = grid.length;

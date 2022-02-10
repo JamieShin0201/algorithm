@@ -1,4 +1,4 @@
-package bruteforce;
+package leetcode.bruteforce;
 
 import java.util.Arrays;
 import java.util.HashMap;

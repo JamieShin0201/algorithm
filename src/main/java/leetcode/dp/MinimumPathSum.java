@@ -1,4 +1,4 @@
-package dp;
+package leetcode.dp;
 
 public class MinimumPathSum {
 

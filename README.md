@@ -1,6 +1,8 @@
 # Algorithm
 
-## Array
+## LeetCode
+
+### Array
 
 - [75. Sort Colors](https://leetcode.com/problems/sort-colors/)
 - [162. Find Peak Element](https://leetcode.com/problems/find-peak-element/)
@@ -9,28 +11,28 @@
 - [704. Binary Search](https://leetcode.com/problems/binary-search/)
 - [724. Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)
 
-## HashTable
+### HashTable
 
 - [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/)
 - [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)
 
-## Stack
+### Stack
 
 - [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
 - [1047. Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/)
 - [1249. Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/)
 
-## BruteForce
+### BruteForce
 
 - [1. Two Sum](https://leetcode.com/problems/two-sum/)
 - [15. 3Sum](https://leetcode.com/problems/3sum/)
 
-## Greedy
+### Greedy
 
 - [1578. Minimum Time to Make Rope Colorful](https://leetcode.com/problems/minimum-time-to-make-rope-colorful/)
 - [1710. Maximum Units on a Truck](https://leetcode.com/problems/maximum-units-on-a-truck/)
 
-## Dynamic Programming
+### Dynamic Programming
 
 - [64. Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)
 - [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
@@ -38,13 +40,13 @@
 - [509. Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)
 - [746. Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)
 
-## Graph
+### Graph
 
 - [200. Number of Islands](https://leetcode.com/problems/number-of-islands/)
-- [323. Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/)
+- [323. Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-leetcode.graph/)
 - [733. Flood Fill](https://leetcode.com/problems/flood-fill/)
 - [841. Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/)
 
-## Math, Bit
+### Math, Bit
 
 - [136. Single Number](https://leetcode.com/problems/single-number/)

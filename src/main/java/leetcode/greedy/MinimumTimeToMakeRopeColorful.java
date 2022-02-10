@@ -1,4 +1,4 @@
-package greedy;
+package leetcode.greedy;
 
 public class MinimumTimeToMakeRopeColorful {
 
