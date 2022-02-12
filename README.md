@@ -55,5 +55,6 @@
 
 ### Stack
 
+- [1874. 스택 수열](https://www.acmicpc.net/problem/1874)
 - [9003. 단어뒤집기](https://www.acmicpc.net/problem/9093)
 - [9012. 괄호](https://www.acmicpc.net/problem/9012)
