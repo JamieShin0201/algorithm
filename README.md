@@ -88,5 +88,6 @@
 - [11053. 가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053)
 - [11726. 2×n 타일링](https://www.acmicpc.net/problem/11726)
 - [11727. 2×n 타일링 2](https://www.acmicpc.net/problem/11727)
+- [14002. 가장 긴 증가하는 부분 수열 4](https://www.acmicpc.net/problem/14002)
 - [15990. 1, 2, 3 더하기 5](https://www.acmicpc.net/problem/15990)
 - [16194. 카드 구매하기 2](https://www.acmicpc.net/problem/16194)
