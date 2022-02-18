@@ -81,6 +81,7 @@
 ### Dynamic Programming
 
 - [1463. 1로 만들기](https://www.acmicpc.net/problem/1463)
+- [1699. 제곱수의 합](https://www.acmicpc.net/problem/1699)
 - [1912. 연속합](https://www.acmicpc.net/problem/1912)
 - [2193. 이친수](https://www.acmicpc.net/problem/2193)
 - [9095. 1, 2, 3 더하기](https://www.acmicpc.net/problem/9095)
