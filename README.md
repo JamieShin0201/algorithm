@@ -84,6 +84,7 @@
 - [1699. 제곱수의 합](https://www.acmicpc.net/problem/1699)
 - [1912. 연속합](https://www.acmicpc.net/problem/1912)
 - [2193. 이친수](https://www.acmicpc.net/problem/2193)
+- [2225. 합분해](https://www.acmicpc.net/problem/2225)
 - [9095. 1, 2, 3 더하기](https://www.acmicpc.net/problem/9095)
 - [10844. 쉬운 계단 수](https://www.acmicpc.net/problem/10844)
 - [11052. 카드 구매하기](https://www.acmicpc.net/problem/11052)
