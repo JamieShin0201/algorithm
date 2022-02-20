@@ -1,4 +1,4 @@
-package bruteforce;
+package leetcode.bruteforce;
 
 import java.util.ArrayList;
 import java.util.Arrays;
