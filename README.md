@@ -94,3 +94,7 @@
 - [14002. 가장 긴 증가하는 부분 수열 4](https://www.acmicpc.net/problem/14002)
 - [15990. 1, 2, 3 더하기 5](https://www.acmicpc.net/problem/15990)
 - [16194. 카드 구매하기 2](https://www.acmicpc.net/problem/16194)
+
+### BruteForce
+
+- [2309. 일곱 난쟁이](https://www.acmicpc.net/problem/2309)
