@@ -97,5 +97,6 @@
 
 ### BruteForce
 
+- [1476. 날짜 계산](https://www.acmicpc.net/problem/1476)
 - [2309. 일곱 난쟁이](https://www.acmicpc.net/problem/2309)
 - [3085. 사탕 게임](https://www.acmicpc.net/problem/3085)
