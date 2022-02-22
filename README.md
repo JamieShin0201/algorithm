@@ -101,3 +101,4 @@
 - [1476. 날짜 계산](https://www.acmicpc.net/problem/1476)
 - [2309. 일곱 난쟁이](https://www.acmicpc.net/problem/2309)
 - [3085. 사탕 게임](https://www.acmicpc.net/problem/3085)
+- [14500. 테트로미노](https://www.acmicpc.net/problem/14500)
