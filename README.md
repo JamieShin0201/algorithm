@@ -99,6 +99,7 @@
 
 - [1107. 리모컨](https://www.acmicpc.net/problem/1107)
 - [1476. 날짜 계산](https://www.acmicpc.net/problem/1476)
+- [1748. 수 이어 쓰기 1](https://www.acmicpc.net/problem/1748)
 - [2309. 일곱 난쟁이](https://www.acmicpc.net/problem/2309)
 - [3085. 사탕 게임](https://www.acmicpc.net/problem/3085)
 - [6064. 카잉 달력](https://www.acmicpc.net/problem/6064)
