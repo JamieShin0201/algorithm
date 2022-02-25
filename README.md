@@ -105,3 +105,4 @@
 - [6064. 카잉 달력](https://www.acmicpc.net/problem/6064)
 - [14500. 테트로미노](https://www.acmicpc.net/problem/14500)
 - [15649. N과 M (1)](https://www.acmicpc.net/problem/15649)
+- [15650. N과 M (2)](https://www.acmicpc.net/problem/15650)
