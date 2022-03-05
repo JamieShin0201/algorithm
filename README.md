@@ -103,6 +103,7 @@
 - [2309. 일곱 난쟁이](https://www.acmicpc.net/problem/2309)
 - [3085. 사탕 게임](https://www.acmicpc.net/problem/3085)
 - [6064. 카잉 달력](https://www.acmicpc.net/problem/6064)
+- [10972. 다음 순열](https://www.acmicpc.net/problem/10972)
 - [10974. 모든 순열](https://www.acmicpc.net/problem/10974)
 - [14500. 테트로미노](https://www.acmicpc.net/problem/14500)
 - [15649. N과 M (1)](https://www.acmicpc.net/problem/15649)
