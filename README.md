@@ -104,6 +104,7 @@
 - [3085. 사탕 게임](https://www.acmicpc.net/problem/3085)
 - [6064. 카잉 달력](https://www.acmicpc.net/problem/6064)
 - [10819. 차이를 최대로](https://www.acmicpc.net/problem/10819)
+- [10971. 외판원 순회 2](https://www.acmicpc.net/problem/10971)
 - [10972. 다음 순열](https://www.acmicpc.net/problem/10972)
 - [10973. 이전 순열](https://www.acmicpc.net/problem/10973)
 - [10974. 모든 순열](https://www.acmicpc.net/problem/10974)
