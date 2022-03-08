@@ -112,6 +112,7 @@
 - [10973. 이전 순열](https://www.acmicpc.net/problem/10973)
 - [10974. 모든 순열](https://www.acmicpc.net/problem/10974)
 - [14500. 테트로미노](https://www.acmicpc.net/problem/14500)
+- [14501. 퇴사](https://www.acmicpc.net/problem/14501)
 - [15649. N과 M (1)](https://www.acmicpc.net/problem/15649)
 - [15650. N과 M (2)](https://www.acmicpc.net/problem/15650)
 - [15651. N과 M (3)](https://www.acmicpc.net/problem/15651)
