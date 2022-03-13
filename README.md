@@ -102,6 +102,7 @@
 - [1748. 수 이어 쓰기 1](https://www.acmicpc.net/problem/1748)
 - [1759. 암호 만들기](https://www.acmicpc.net/problem/1759)
 - [2309. 일곱 난쟁이](https://www.acmicpc.net/problem/2309)
+- [2529. 부등호](https://www.acmicpc.net/problem/2529)
 - [3085. 사탕 게임](https://www.acmicpc.net/problem/3085)
 - [6064. 카잉 달력](https://www.acmicpc.net/problem/6064)
 - [6603. 로또](https://www.acmicpc.net/problem/6603)
