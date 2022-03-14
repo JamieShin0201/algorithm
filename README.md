@@ -98,6 +98,7 @@
 ### BruteForce
 
 - [1107. 리모컨](https://www.acmicpc.net/problem/1107)
+- [1248. 맞춰봐](https://www.acmicpc.net/problem/1248)
 - [1476. 날짜 계산](https://www.acmicpc.net/problem/1476)
 - [1748. 수 이어 쓰기 1](https://www.acmicpc.net/problem/1748)
 - [1759. 암호 만들기](https://www.acmicpc.net/problem/1759)
