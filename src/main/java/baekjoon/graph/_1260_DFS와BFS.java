@@ -30,7 +30,8 @@ public class _1260_DFS와BFS {
             Collections.sort(g[i]);
         }
 
-        dfs(V);
+//        dfs(V);
+        recursiveDfs(V);
         Arrays.fill(visited, false);
         System.out.println();
         bfs(V);
@@ -55,6 +56,19 @@ public class _1260_DFS와BFS {
                     break;
                 }
             }
+        }
+    }
+
+    private static void recursiveDfs(int node) {
+        if (visited[node]) {
+            return;
+        }
+
+        visited[node] = true;
+        System.out.print(node + " ");
+
+        for (int next : g[node]) {
+            recursiveDfs(next);
         }
     }
 
