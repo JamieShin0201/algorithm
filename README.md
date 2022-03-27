@@ -132,6 +132,7 @@
 ### Graph
 
 - [1260. DFS와 BFS](https://www.acmicpc.net/problem/1260)
+- [1697. 숨바꼭질](https://www.acmicpc.net/problem/1697)
 - [1707. 이분 그래프](https://www.acmicpc.net/problem/1707)
 - [2178. 미로 탐색](https://www.acmicpc.net/problem/2178)
 - [2667. 단지번호붙이기](https://www.acmicpc.net/problem/2667)
