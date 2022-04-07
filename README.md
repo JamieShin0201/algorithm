@@ -142,3 +142,4 @@
 - [11724. 연결 요소의 개수](https://www.acmicpc.net/problem/11724)
 - [13023. ABCDE](https://www.acmicpc.net/problem/13023)
 - [13913. 숨바꼭질4](https://www.acmicpc.net/problem/13913)
+- [14226. 이모티콘](https://www.acmicpc.net/problem/14226)
